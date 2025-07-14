@@ -5,3 +5,6 @@ My Personal Repository
 ### Currently, I'm working on my own tower defence style game that will go towards my final A-Level grade, taking inspiration from well known and loved games like "Plants Vs. Zombies" and "Bloons TD", which I am very excited for and am going to be learning C# in unity for (I already have experience coding in Python, C, Java and HTML, CSS, JavaScript)
 ### I'm passionate to learn about more surrounding the subject and the opportunities it could present me with, as I'm going to study Computer Science further at University.
 ### I'm a colaborative worker who's capable as acting as the leader and am able to be led when working in a team, I consistently meet deadlines and am a clear, consistent communicator. All skills I have exercised when completing group projects with classmates at college.
+
+[Hotel Kashyyyk written in C](https://github.com/BHASVIC-CompSci/Local-hotel-kashyyyk)
+[Animalopoly written in Java](https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-HarryWill07)
